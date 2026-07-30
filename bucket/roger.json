@@ -1,22 +1,22 @@
 {
-    "version": "5.4.6",
+    "version": "5.4.7",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/rogerai-fyi/roger/releases/download/v5.4.6/roger-windows-amd64.zip",
+            "url": "https://github.com/rogerai-fyi/roger/releases/download/v5.4.7/roger-windows-amd64.zip",
             "bin": [
                 "roger.exe"
             ],
-            "hash": "55d5100337263118f8581754721e0a5fba84819e6ef90e87f03a3bde9367eeff"
+            "hash": "1d66107591ec33ee5c791a221c250ae37c2e69fbad41fc6d6f978d1f1c2f80da"
         },
         "arm64": {
-            "url": "https://github.com/rogerai-fyi/roger/releases/download/v5.4.6/roger-windows-arm64.zip",
+            "url": "https://github.com/rogerai-fyi/roger/releases/download/v5.4.7/roger-windows-arm64.zip",
             "bin": [
                 "roger.exe"
             ],
-            "hash": "bab626f6e78f17b8461ce50e619ce216b816802d43f9d593a1738302d174020d"
+            "hash": "d01b90460a7c339e70b940e6c2e04d448630d346bf4f57139f4fe0418ecc4e8c"
         }
     },
-    "homepage": "https://rogerai.fyi",
+    "homepage": "https://rogerai.fm",
     "license": "PolyForm-Perimeter-1.0.0",
     "description": "RogerAI - a two-way radio for GPUs."
 }
