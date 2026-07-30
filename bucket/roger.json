@@ -1,19 +1,19 @@
 {
-    "version": "5.4.7",
+    "version": "5.4.8",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/rogerai-fyi/roger/releases/download/v5.4.7/roger-windows-amd64.zip",
+            "url": "https://github.com/rogerai-fyi/roger/releases/download/v5.4.8/roger-windows-amd64.zip",
             "bin": [
                 "roger.exe"
             ],
-            "hash": "1d66107591ec33ee5c791a221c250ae37c2e69fbad41fc6d6f978d1f1c2f80da"
+            "hash": "5897bf0d29bbb0f02cc4d2d8742f291f85c8b3613f3216bc4ba41e0f9e1d6a3b"
         },
         "arm64": {
-            "url": "https://github.com/rogerai-fyi/roger/releases/download/v5.4.7/roger-windows-arm64.zip",
+            "url": "https://github.com/rogerai-fyi/roger/releases/download/v5.4.8/roger-windows-arm64.zip",
             "bin": [
                 "roger.exe"
             ],
-            "hash": "d01b90460a7c339e70b940e6c2e04d448630d346bf4f57139f4fe0418ecc4e8c"
+            "hash": "24f024c9bb2ab143aa81ecb4fdc6c76195ad0189176cd8885be7b96708ec16a3"
         }
     },
     "homepage": "https://rogerai.fm",
